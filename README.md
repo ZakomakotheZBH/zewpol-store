@@ -26,3 +26,20 @@ Create an HTML file in the `/apps` folder (e.g., `my-awesome-app.html`)
     </script>
 </body>
 </html>
+```
+Step 2: add your registry to the apps-registry.json file
+```
+{
+  "id": "my-awesome-app",
+  "name": "My Awesome App",
+  "version": "1.0.0",
+  "description": "What this app does",
+  "author": "Your Name",
+  "verified": false,
+  "downloads": 0,
+  "rating": 0,
+  "htmlFile": "my-awesome-app.html",
+  "reviews": []
+}
+```
+
