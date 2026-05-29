@@ -42,4 +42,44 @@ Step 2: add your registry to the apps-registry.json file
   "reviews": []
 }
 ```
+Step 3: Done! 🎉
 
+Your app will appear in the Zewpol Store within seconds.
+
+📋 App Requirements
+
+Requirement Details
+Format HTML only (can include CSS/JS)
+Size Limit 5MB max
+Verified Producer Contact Zewpol team to get verified badge
+Reviews Apps need 10+ downloads before reviews can be left
+
+🔧 Registry Fields
+
+Field Type Required Description
+id string ✅ Unique identifier (no spaces)
+name string ✅ Display name
+version string ✅ Semantic version (e.g., 1.0.0)
+description string ✅ Short description (max 200 chars)
+author string ✅ Developer name
+verified boolean ✅ Whether producer is verified
+downloads number ✅ Download counter (starts at 0)
+rating number ✅ Average rating (starts at 0)
+htmlFile string ✅ Filename in /apps folder
+reviews array ✅ Array of review objects
+
+📊 Auto-Updating Fields
+
+The Zewpol Store automatically tracks:
+
+· Downloads - Incremented when users install
+· Ratings - Calculated from user reviews
+· Reviews - Stored locally (future: GitHub sync)
+
+🏷️ Getting Verified
+
+Verified producers get a ✓ badge in the store. Requirements:
+
+· 5+ published apps OR
+· 10+ total downloads OR
+· Official Zewpol partnership
