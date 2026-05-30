@@ -1,19 +1,21 @@
 {
-  "updated": "2026-01-15T12:00:00Z",
-  "totalApps": 0,
+  "updated": "2026-05-30T00:00:00Z",
+  "totalApps": 1,
   "totalDownloads": 0,
   "apps": [
     {
-  "id": "zuescalc",
-  "name": "Zeus calculator app",
-  "version": "1.0.0",
-  "description": "A calculator for math",
-  "author": "Zewpol inc.",
-  "verified": true,
-  "downloads": 0,
-  "rating": 0,
-  "htmlFile": "Zeus calculator app.html",
-  "reviews": []
-}
+      "id": "zeus-calculator",
+      "name": "Zeus Calculator",
+      "version": "1.0.0",
+      "description": "A powerful calculator app for basic and scientific calculations",
+      "author": "Zewpol Inc.",
+      "verified": true,
+      "downloads": 0,
+      "rating": 0,
+      "htmlFile": "zeus-calculator.html",
+      "reviews": [],
+      "created": "2026-05-30T00:00:00Z",
+      "tags": ["calculator", "utility", "math"]
+    }
   ]
 }
