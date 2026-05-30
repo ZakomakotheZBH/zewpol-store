@@ -4,7 +4,7 @@ This repository hosts all HTML apps for the **Zewpol Ecosystem**.
 
 ## 📦 How to Publish an App
 
-Apps become visible in the [Zewpol Store](https://zewpol.neocities.org) **immediately** after pushing to this repo.
+Apps become visible in the [Zewpol Store](https://zewpol.neocities.org) **A bit after** after pushing to this repo.
 
 ### Step 1: Create Your HTML App
 
