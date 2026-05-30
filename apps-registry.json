@@ -2,5 +2,18 @@
   "updated": "2026-01-15T12:00:00Z",
   "totalApps": 0,
   "totalDownloads": 0,
-  "apps": []
+  "apps": [
+    {
+  "id": "zuescalc",
+  "name": "Zeus calculator app",
+  "version": "1.0.0",
+  "description": "A calculator for math",
+  "author": "Zewpol inc.",
+  "verified": true,
+  "downloads": 0,
+  "rating": 0,
+  "htmlFile": "Zeus calculator app.html",
+  "reviews": []
+}
+  ]
 }
