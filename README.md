@@ -83,3 +83,4 @@ Verified producers get a ✓ badge in the store. Requirements:
 · 5+ published apps OR
 · 10+ total downloads OR
 · Official Zewpol partnership
+and your done! (NOTE: PUBLICATION TO THE APP STORE MAY TAKE 2-5 WEEKS TO HAPPEN)
